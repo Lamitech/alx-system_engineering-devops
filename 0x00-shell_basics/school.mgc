@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m School /0 SCHOOL
+file -C -m School /SCHOOL
